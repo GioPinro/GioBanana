@@ -1,0 +1,282 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 3;
+	--web-view-id: Web_1366__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366__3 {
+	position: absolute;
+	width: 100%;
+	height: 1792px;
+	background-color: rgba(232,218,192,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 3;
+	--web-view-id: Web_1366__3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Grupo_208 {
+	position: absolute;
+	width: 101%;
+	height:  1792px;
+	left: -6px;
+	top: 0px;
+	overflow: visible;
+}
+.btn-atras {
+	position: absolute;
+	top: 4.5%;
+	left: 2%;
+	display: flex;
+	width: 120px;
+	max-width: 150px;
+	flex-wrap: wrap;
+	margin: 0%;
+}
+#arriba {
+	position: absolute;
+	width: 100%;
+	height: 77.791px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_5 {
+	position: absolute;
+	width: 100%;
+	height: 77.791px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_3 {
+	fill: rgba(231,192,99,1);
+}
+.Rectngulo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 100%;
+	height: 77.791px;
+	left: 0px;
+	top: 0px;
+}
+#logo {
+	position: absolute;
+	left: 50%;
+	top: 20%;
+	transform: translatex(-50%);
+	overflow: visible;
+	cursor: pointer;
+}
+.t{
+	position: absolute;
+	left: 9.5%;
+	top: 22%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t1{
+	position: absolute;
+	left: 9.5%;
+	top: 31%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t2{
+	position: absolute;
+	left: 8.5%;
+	top: 40%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t3{
+	position: absolute;
+	left: 8.5%;
+	top: 49.5%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t4{
+	position: absolute;
+	left: 13.5%;
+	top: 59%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t5{
+	position: absolute;
+	left: 12.6%;
+	top: 68.4%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t6{
+	position: absolute;
+	left: 11.6%;
+	top: 77.8%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+.t7{
+	position: absolute;
+	left: 13.4%;
+	top: 87%;
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+}
+
+.titulos{
+	position: absolute;
+	width: 100%;
+	height: 5%;
+	top: 12%;
+	left:25%;
+	font-family: 'Pangolin', cursive;
+}
+table {
+	width: 60%;
+	/* border: 1px solid black; */
+
+}
+th{
+	margin: 25%;
+}
+
+.conticon{
+	position: absolute;
+	width: 20%;
+	top: 14%;
+	left: 10%;
+}
+.scr{
+	width: 40%;
+	height: 40%;
+	margin: 20px;
+}
+.barras{
+	position: absolute;
+	width: 100%;
+	left:28%;
+	top: 15.2%;
+}
+.br{
+	width: 60%;
+	margin: 2.5% 0;
+}
+.rb{
+	margin-top: 2.2%;
+}
+/*Pie*/
+
+#Piesito {
+	fill: rgba(231,192,99,1);
+}
+.piesito {
+	position: absolute;
+	overflow: visible;
+	width: 100%;
+	height: 77.791px;
+	left: 0px;
+	bottom: 0%;
+}
+#Email_giovannapinro25gmailcom {
+	left: 70%;
+	top: 97.5%;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	font-family: 'Pangolin', cursive;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#icon {
+	position: absolute;
+	left: 20%;
+	top: 96.5%;
+	overflow: visible;
+}
+.icon {
+	width: 50px;
+	height: 50px;
+	padding: 10px;	
+}
+#insta {
+	position: absolute;
+	width: 26.471px;
+	height: 26.471px;
+	left: 0px;
+	top: 0.046px;
+	overflow: visible;
+}
+
+#Bh {
+	position: absolute;
+	width: 26.506px;
+	height: 26.466px;
+	left: 40.263px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Ln {
+	position: absolute;
+	width: 26.059px;
+	height: 26.054px;
+	left: 80.766px;
+	top: 0.413px;
+	overflow: visible;
+}
+
+#dimiH {
+	position: absolute;
+	left: 50%;
+	top: 91.7%;
+	transform: translatex(-50%);
+	overflow: visible;
+}
+.ventana{
+	width: 100%;
+	height: 100%;
+	color:blanchedalmond;
+	position: fixed;
+	background-image: url(../img/1x/bg-modal.png) ;
+	top: 0%;
+	left: 0%;
+	display: none;
+}
+.form{
+	width: 300px;
+	height: 400px;
+	padding: 25px;
+	background-color: blanchedalmond;
+	color: #DD723A;
+	top: 10%;
+	left: 40%;
+	position: absolute;
+	border-radius: 10%;
+}
+hr{
+	background-color: rgba(231,192,99,1);
+	width: 100%;
+	height: 4px;
+	margin: 10% 0%;
+}
+.cerrar{
+	color: red;
+	font-weight: 900;
+	text-align: right;
+}
+.cerrar a{
+	color: red;
+}
